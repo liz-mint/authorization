@@ -1,10 +1,9 @@
-# SkillCrucial React Redux boilerplate
 
 ## Quick start
 
 1. Clone this repo using:
   ```shell
-  $ git clone git@github.com:ovasylenko/skillcrucial-react-redux-boilerplate.git
+  $ git clone git@github.com:lizagunina/authorization.git
   ```
 
 2. To install dependencies and clean the git repo run:
